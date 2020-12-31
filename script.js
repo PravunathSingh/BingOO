@@ -165,7 +165,7 @@ function getWikiSearchString(searchTerm) {
 
 function getMaxChars() {
     const width = window.innerWidth;
-    let maxChars = 400;
+    let maxChars = 200;
     
     return maxChars;
 }
